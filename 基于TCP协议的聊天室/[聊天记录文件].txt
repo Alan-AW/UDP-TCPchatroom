@@ -1,0 +1,4 @@
+﻿client2:hello
+client1:嗨
+client1:ok 
+client2:baibai
